@@ -4,7 +4,7 @@ const { exec } = require("child_process")
 
 vn = false // Jgn Di ubah
 
-wm = "By PitoDev ArmStrong"
+wm = "By ZeX MakeRZ"
 urlnye = "https://github.com/PitoDevID"
 fotonye = fs.readFileSync('./pict.jpg')
 
